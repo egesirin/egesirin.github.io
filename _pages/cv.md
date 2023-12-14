@@ -62,6 +62,7 @@ Teaching
 Volunteer
 ======
 * Proofreader of the book: Matematiğin Sihirli Dünyası
-  * I served as a proofreader for the Turkish translation of the book "Matematiğin Sihirli Dünyası" (The Magic of Math), originally authored by Arthur T. Benjamin with the title "The Magic of Math: Solving for x and Figuring Out Why." After the translation by Boğaç Karçıka, Hakan Doğan, Ayhan Dil, Uğur Doğan, Uğur Efem, I meticulously checked for any grammatical errors or inaccuracies in mathematical expressions before the book went into print.
+  * I served as a proofreader for the Turkish translation of the book "Matematiğin Sihirli Dünyası" (The Magic of Math), originally authored by Arthur T. Benjamin with the title "The Magic of Math: Solving for x and Figuring Out Why." After the translation by Ayhan Dil, I meticulously checked for any grammatical errors or inaccuracies in mathematical expressions before the book published.
+    <img src='/images/matematigin_sihirli_dünyasi.jpg'>
 * CMPE 283 - Secure Multi-Domain Virtual Hosting NGINX Lecture Notes Update
   *  I voluntarily updated the prepared lecture notes and codes for the CMPE 283 course given by Chris Stephenson at Istanbul Bilgi University.
