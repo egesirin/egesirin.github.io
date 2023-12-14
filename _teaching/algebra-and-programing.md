@@ -2,7 +2,7 @@
 title: "Algebra and Programming Course"
 collection: teaching
 type: "Higschool Course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/algebra-and-programming
 venue: "Nesin Mathematics Village"
 date: 2018-2021
 location: "Izmir, Turkey"
