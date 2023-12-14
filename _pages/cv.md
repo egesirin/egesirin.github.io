@@ -43,9 +43,9 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  [Probabilistic Image Segmentation With Continuous Shape Representations](https://www.zib.de/visual#opus-year-2023)
+   Published in ZIB, 2023
+
   
 Talks
 ======
