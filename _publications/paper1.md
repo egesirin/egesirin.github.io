@@ -2,7 +2,7 @@
 title: " Probabilistic Image Segmentation With Continuous Shape Representations"
 collection: publications
 permalink: /publication/paper1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2023-04-01
 venue: 'The Zuse Institute Berlin'
 paperurl: '[https://www.zib.de/visual#opus-year-2023]'
